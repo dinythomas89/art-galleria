@@ -27,9 +27,11 @@ export const StyledLink = styled(Link)`
 export const Artist = styled.div`
   cursor: pointer;
   border-radius: 10px;
-  margin: 20px
-  -webkit-box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
-  -moz-box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  margin: 20px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px,
+    rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px,
+    rgba(0, 0, 0, 0.24) 0px 1px 2px;
   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
   transition: box-shadow 0.3s;
 
@@ -37,6 +39,7 @@ export const Artist = styled.div`
     -webkit-box-shadow: 0px 3px 9px 5px rgba(125, 125, 124, 1);
     -moz-box-shadow: 0px 3px 9px 5px rgba(125, 125, 124, 1);
     box-shadow: 0px 3px 9px 5px rgba(125, 125, 124, 1);
+    opacity: 0.8;
   }
 `;
 

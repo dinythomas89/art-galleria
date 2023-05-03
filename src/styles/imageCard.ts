@@ -4,13 +4,12 @@ export const ImageCardContainer = styled.div`
   height: max-content;
   padding: 10px;
   margin: 2%;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
-    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
-  -moz-box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
-    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
-  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
-    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
   border-radius: 10px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px,
+    rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px,
+    rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -18,7 +17,7 @@ export const ImageCardContainer = styled.div`
 `;
 
 export const CardImage = styled.img`
-  width: auto;
+  max-width: 350px;
   height: 300px;
   border-radius: 10px;
   animation: blur 4s 1;

@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 export const HeaderContainer = styled.div`
-  height: 13vh;
+  height: 18vh;
   display: flex;
   justify-content: space-between;
   align-items: center;
