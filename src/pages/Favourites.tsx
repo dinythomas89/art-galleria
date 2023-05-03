@@ -4,7 +4,12 @@ import BackButton from "../components/BackButton";
 import Pagination from "../components/Pagination";
 import { usePaginationStore } from "../store/paginationStore";
 import ImageCard from "../components/ImageCard";
-import { FavouritesContainer, ImageWrapper, Title } from "../styles/favourites";
+import {
+  FavouritesContainer,
+  ImageWrapper,
+  NoImageText,
+  Title,
+} from "../styles/favourites";
 
 const Favourites = () => {
   const artistsData = useDataStore((store) => store.artistsData);
@@ -16,14 +21,15 @@ const Favourites = () => {
       state.recordsPerPage,
     ]
   );
-  let likedImages: any[] = [];
 
+  let likedImages: any[] = [];
   artistsData.map((data) => {
     const images = data.images.filter((image) =>
       likedCardIds.includes(image.id)
     );
     if (images.length > 0) likedImages.push(...images);
   });
+
   const indexOfLastRecord = currentPage * recordsPerPage;
   const indexOfFirstRecord = indexOfLastRecord - recordsPerPage;
   const currentRecords = likedImages.slice(
@@ -37,11 +43,15 @@ const Favourites = () => {
       <BackButton />
       <Title>Favourites Paintings</Title>
       <ImageWrapper>
-        {likedImages.length > 0
-          ? currentRecords.map((image) => (
-              <ImageCard key={image.id} image={image} />
-            ))
-          : "No images to display"}
+        {likedImages.length > 0 ? (
+          currentRecords.map((image) => (
+            <ImageCard key={image.id} image={image} />
+          ))
+        ) : (
+          <NoImageText>
+            There is no favourite images. Please select some!
+          </NoImageText>
+        )}
       </ImageWrapper>
       {numberOfPages > 1 ? (
         <Pagination

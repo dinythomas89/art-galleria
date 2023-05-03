@@ -1,7 +1,9 @@
 import styled from "styled-components";
 
 export const BackButtonComponent = styled.div`
-  padding: 20px;
+  margin: 20px;
+  max-width: max-content;
   font-size: 26px;
   color: #6b6b6c;
+  cursor: pointer;
 `;

@@ -22,6 +22,16 @@ export const SourceLink = styled.a`
   color: #6b6b6c;
   margin: 20px;
   padding: 10px;
+
+  &:hover {
+    color: #f4d06f;
+    cursor: pointer;
+  }
+
+  &:active {
+    color: blue;
+    cursor: pointer;
+  }
 `;
 
 export const SourceLinkWrapper = styled.div`

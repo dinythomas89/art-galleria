@@ -7,6 +7,7 @@ import {
   Artist,
   ArtistTitle,
   StyledLink,
+  ArtistText,
 } from "../styles/home";
 import HomeCard from "../components/HomeCard";
 import Loading from "../components/Loading";
@@ -26,23 +27,27 @@ const Home = () => {
     fetchArtistsData();
   }, []);
 
-  if (loading) <Loading />;
-  if (error) <Error />;
-
   return (
     <HomeContainer>
       <HomeTitle>Artist Gallery</HomeTitle>
-      <ImageWrapper>
-        {artistsData.map((artist) => (
-          <StyledLink to={`/${artist.name}`} key={artist.name}>
-            <Artist>
-              <HomeCard images={artist.images.slice(0, 2)} />
-              <HomeCard images={artist.images.slice(2, 4)} />
-              <ArtistTitle className="artist-name">{artist.name}</ArtistTitle>
-            </Artist>
-          </StyledLink>
-        ))}
-      </ImageWrapper>
+      {loading ? (
+        <Loading />
+      ) : error ? (
+        <Error />
+      ) : (
+        <ImageWrapper>
+          {artistsData.map((artist) => (
+            <StyledLink to={`/${artist.name}`} key={artist.name}>
+              <Artist>
+                <HomeCard images={artist.images.slice(0, 2)} />
+                <HomeCard images={artist.images.slice(2, 4)} />
+                <ArtistTitle className="artist-name">{artist.name}</ArtistTitle>
+                <ArtistText>Click to see all</ArtistText>
+              </Artist>
+            </StyledLink>
+          ))}
+        </ImageWrapper>
+      )}
     </HomeContainer>
   );
 };

@@ -1,7 +1,13 @@
-import { LoadingContainer } from "../styles/loading";
+import { CicleBorder, CicleCore, LoadingContainer } from "../styles/loading";
 
 const Loading = () => {
-  return <LoadingContainer>Loading...</LoadingContainer>;
+  return (
+    <LoadingContainer>
+      <CicleBorder>
+        <CicleCore />
+      </CicleBorder>
+    </LoadingContainer>
+  );
 };
 
 export default Loading;

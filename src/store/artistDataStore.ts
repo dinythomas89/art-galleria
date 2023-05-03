@@ -8,7 +8,7 @@ interface ArtistDataStore {
   fetchArtistsData: () => void;
 }
 
-export const useDataStore = create<ArtistDataStore>((set, get) => ({
+export const useDataStore = create<ArtistDataStore>((set) => ({
   artistsData: [],
   loading: false,
   error: false,
@@ -22,7 +22,10 @@ export const useDataStore = create<ArtistDataStore>((set, get) => ({
         },
       });
       const result = await response.json();
-      set((state) => ({ artistsData: (state.artistsData = result), loading: false }));
+      set((state) => ({
+        artistsData: (state.artistsData = result),
+        loading: false,
+      }));
     } catch (err) {
       if (err instanceof Error) {
         set(() => ({ error: true, loading: false }));

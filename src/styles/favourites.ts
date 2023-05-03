@@ -18,6 +18,7 @@ export const ImageWrapper = styled.div`
   align-items: center;
 `;
 
-export const PaginationWrapper = styled.div`
-  padding: 20px;
+export const NoImageText = styled.p`
+  font-size: 22px;
+  padding: 10px;
 `;

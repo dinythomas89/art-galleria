@@ -1,9 +1,4 @@
-import {
-  HeaderContainer,
-  Logo,
-  NavBar,
-  StyledLink,
-} from "../styles/header";
+import { HeaderContainer, Logo, NavBar, StyledLink } from "../styles/header";
 
 const Header = () => {
   return (
