@@ -43,7 +43,7 @@ export const LikeButton = styled.div<{ isSelected: boolean }>`
   font-size: 28px;
   font-weight: 500;
   padding: 10px 0;
-  color: ${(props) => (props.isSelected ? "#213e5c" : "#cbd3db")};
+  color: ${(props) => (props.isSelected ? "#213e5c" : "#aaaaad")};
 
   &:hover {
     animation: wiggle 2s linear infinite;
