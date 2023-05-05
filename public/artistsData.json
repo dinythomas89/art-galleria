@@ -1,450 +1,474 @@
 [
-    {
-      "name": "Leonardo da Vinci",
-      "images": [
-        {
-          "id": 111,
-          "imgName": "Mona Lisa",
-          "imgLink": "https://arthive.net/res/media/img/oy1200/article/4cb/7567061.webp"
-        },
-        {
-          "id": 112,
-          "imgName": "The Last Supper",
-          "imgLink": "https://arthive.net/res/media/img/oy400/article/0fc/7567064.webp"
-        },
-        {
-          "id": 113,
-          "imgName": "Ginevra de' Benci",
-          "imgLink": "https://arthive.net/res/media/img/oy800/article/e96/7567065.webp"
-        },
-        {
-          "id": 114,
-          "imgName": "Madonna and the Child",
-          "imgLink": "https://arthive.net/res/media/img/orig/article/33f/7567066.webp"
-        },
-        {
-          "id": 115,
-          "imgName": "Lady with an Ermine",
-          "imgLink": "https://arthive.net/res/media/img/oy1200/article/6eb/7567067.webp"
-        },
-        {
-          "id": 116,
-          "imgName": "The Virgin of the Rock",
-          "imgLink": "https://arthive.net/res/media/img/oy1000/article/561/7567068.webp"
-        },
-        {
-          "id": 117,
-          "imgName": "The Madonna of the Carnation",
-          "imgLink": "https://arthive.net/res/media/img/oy1000/article/d87/7567069.webp"
-        },
-        {
-          "id": 118,
-          "imgName": "Annunciation",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/Annunciation-by-Leonardo-Da-Vinci.jpg"
-        },
-        {
-          "id": 119,
-          "imgName": "The Baptism of Christ",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Baptism-of-Christ-by-Leonardo-Da-Vinci.jpg"
-        },
-        {
-          "id": 120,
-          "imgName": "The Virgin and Child with St. Anne",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Virgin-and-Child-with-St.-Anne-by-Leonardo-Da-Vinci.jpg"
-        }
-      ],
-      "source": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci#Paintings"
-    },
-    {
-      "name": "Michelangelo",
-      "images": [
-        {
-          "id": 211,
-          "imgName": "The Torment of Saint Anthony",
-          "imgLink": "https://blog.artsper.com/wp-content/uploads/2022/06/2.jpg"
-        },
-        {
-          "id": 212,
-          "imgName": "Battle of Cascina",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/Battle-of-Cascina-by-Michelangelo.jpg"
-        },
-        {
-          "id": 213,
-          "imgName": "The Creation of Adam",
-          "imgLink": "https://blog.artsper.com/wp-content/uploads/2022/06/5.jpg"
-        },
-        {
-          "id": 214,
-          "imgName": "The Last Judgment",
-          "imgLink": "https://blog.artsper.com/wp-content/uploads/2022/06/4-1.jpg"
-        },
-        {
-          "id": 215,
-          "imgName": "The Crucifixion of St. Peter",
-          "imgLink": "https://blog.artsper.com/wp-content/uploads/2022/06/3.jpg"
-        },
-        {
-          "id": 216,
-          "imgName": "The Entombment ",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Entombment-by-Michelangelo.jpg"
-        },
-        {
-          "id": 217,
-          "imgName": "The Conversion of Saul ",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Conversion-of-Saul-by-Michelangelo.jpg"
-        },
-        {
-          "id": 218,
-          "imgName": "Pieta",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/Pieta-by-Michelangelo.jpg"
-        },
-        {
-          "id": 219,
-          "imgName": "Madonna of the Stairs",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/Madonna-of-the-Stairs-by-Michelangelo.jpg"
-        },
-        {
-          "id": 220,
-          "imgName": "Leda and the Swan",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/Leda-and-the-Swan-by-Michelangelo.jpg"
-        }
-      ],
-      "source": "https://en.wikipedia.org/wiki/Michelangelo"
-    },
-    {
-      "name": "Rembrandt",
-      "images": [
-        {
-          "id": 311,
-          "imgName": "The Night Watch",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Night-Watch-by-Rembrandt.jpg"
-        },
-        {
-          "id": 312,
-          "imgName": "The Jewish Bride",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Jewish-Bride-by-Rembrandt-1.jpg"
-        },
-        {
-          "id": 313,
-          "imgName": "The Storm on the Sea of Galilee",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Storm-on-the-Sea-of-Galilee-by-Rembrandt.jpg"
-        },
-        {
-          "id": 314,
-          "imgName": "Head of Christ",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/Head-of-Christ-by-Rembrandt.jpg"
-        },
-        {
-          "id": 315,
-          "imgName": "Bathsheba at Her Bath",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/Bathsheba-at-Her-Bath-by-Rembrandt.jpg"
-        },
-        {
-          "id": 316,
-          "imgName": "Danaë",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/Danae-by-Rembrandt.jpg"
-        },
-        {
-          "id": 317,
-          "imgName": "The Conspiracy of Claudius Civilis",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Conspiracy-of-Claudius-Civilis-by-Rembrandt.jpg"
-        },
-        {
-          "id": 318,
-          "imgName": "Belshazzar’s Feast",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/Belshazzars-Feast-by-Rembrandt.jpg"
-        },
-        {
-          "id": 319,
-          "imgName": "The Prodigal Son in the Brothel",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Prodigal-Son-in-the-Brothel-by-Rembrandt.jpg"
-        },
-        {
-          "id": 320,
-          "imgName": "Old Man with a Gold Chain",
-          "imgLink": "https://www.theartist.me/wp-content/uploads/2017/08/Old-Man-with-a-Gold-Chain-by-Rembrandt.jpg"
-        }
-      ],
-      "source": "https://en.wikipedia.org/wiki/Rembrandt"
-    },
-    {
-      "name": "Vincent van Gogh",
-      "images": [
-        {
-          "id": 411,
-          "imgName": "Starry Night",
-          "imgLink": "https://uploads3.wikiart.org/00142/images/vincent-van-gogh/the-starry-night.jpg!PinterestSmall.jpg"
-        },
-        {
-          "id": 412,
-          "imgName": "The Potatao Eaters",
-          "imgLink": "https://uploads2.wikiart.org/images/vincent-van-gogh/the-potato-eaters-1885-1.jpg!PinterestSmall.jpg"
-        },
-        {
-          "id": 413,
-          "imgName": "Paul Gauguin's Armchair",
-          "imgLink": "https://uploads6.wikiart.org/images/vincent-van-gogh/paul-gauguin-s-armchair-1888.jpg!PinterestSmall.jpg"
-        },
-        {
-          "id": 414,
-          "imgName": "Red Vineyards at Arles",
-          "imgLink": "https://uploads5.wikiart.org/images/vincent-van-gogh/red-vineyards-at-arles-1888.jpg!PinterestSmall.jpg"
-        },
-        {
-          "id": 415,
-          "imgName": "Sower with Setting Sun",
-          "imgLink": "https://uploads7.wikiart.org/images/vincent-van-gogh/sower-with-setting-sun-1888-3.jpg!PinterestSmall.jpg"
-        },
-        {
-          "id": 416,
-          "imgName": "Still Life - Vase with Fifteen Sunflowers",
-          "imgLink": "https://uploads6.wikiart.org/images/vincent-van-gogh/still-life-vase-with-fifteen-sunflowers-1888-1.jpg!PinterestSmall.jpg"
-        },
-        {
-          "id": 417,
-          "imgName": "Irises",
-          "imgLink": "https://uploads8.wikiart.org/00213/images/vincent-van-gogh/antique-3840759.jpg!PinterestSmall.jpg"
-        },
-        {
-          "id": 418,
-          "imgName": "Landscape with House and Ploughman",
-          "imgLink": "https://uploads2.wikiart.org/images/vincent-van-gogh/landscape-with-house-and-ploughman-1889(2).jpg!PinterestSmall.jpg"
-        },
-        {
-          "id": 419,
-          "imgName": "Wheatfield with Crows",
-          "imgLink": "https://uploads4.wikiart.org/images/vincent-van-gogh/wheatfield-with-crows-1890.jpg!PinterestSmall.jpg"
-        },
-        {
-          "id": 420,
-          "imgName": "A woman walking in garden",
-          "imgLink": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-woman-walking-in-garden-1887(1).jpg!PinterestSmall.jpg"
-        }
-      ],
-      "source": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
-    },
-    {
-      "name": "Johannes Vermeer",
-      "images": [
-        {
-          "id": 511,
-          "imgName": "Diana and her Companions",
-          "imgLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/diana.jpg"
-        },
-        {
-          "id": 512,
-          "imgName": "Christ in the House of Martha and Mary",
-          "imgLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/christ.jpg"
-        },
-        {
-          "id": 513,
-          "imgName": "The Procuress",
-          "imgLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/procuress.jpg"
-        },
-        {
-          "id": 514,
-          "imgName": "Girl with a Pearl Earring",
-          "imgLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/earring.jpg"
-        },
-        {
-          "id": 515,
-          "imgName": "A Maid Asleep",
-          "imgLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/asleep.jpg"
-        },
-        {
-          "id": 516,
-          "imgName": "Girl Reading a Letter at an Open Window",
-          "imgLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/open.jpg"
-        },
-        {
-          "id": 517,
-          "imgName": "The Milkmaid",
-          "imgLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/milkmaid.jpg"
-        },
-        {
-          "id": 518,
-          "imgName": "The Glass of Wine",
-          "imgLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/glass-berlin.jpg"
-        },
-        {
-          "id": 519,
-          "imgName": "The Little Street",
-          "imgLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/street.jpg"
-        },
-        {
-          "id": 520,
-          "imgName": "The Art of Painting",
-          "imgLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/art.jpg"
-        }
-      ],
-      "source": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
-    },
-    {
-      "name": "Pablo Picasso",
-      "images": [
-        {
-          "id": 611,
-          "imgName": "Guernica",
-          "imgLink": "https://www.pablopicasso.org/images/amazingcarousel/guernica.jpg"
-        },
-        {
-          "id": 612,
-          "imgName": "Les Demoiselles d'Avignon",
-          "imgLink": "https://www.pablopicasso.org/images/amazingcarousel/avignon.jpg"
-        },
-        {
-          "id": 613,
-          "imgName": "The Old Guitarist",
-          "imgLink": "https://www.pablopicasso.org/images/amazingcarousel/the-old-guitarist.jpg"
-        },
-        {
-          "id": 614,
-          "imgName": "Girl Before a Mirror",
-          "imgLink": "https://www.pablopicasso.org/images/amazingcarousel/girl-before-a-mirror.jpg"
-        },
-        {
-          "id": 615,
-          "imgName": "Three Musicians",
-          "imgLink": "https://www.pablopicasso.org/images/amazingcarousel/three-musicians.jpg"
-        },
-        {
-          "id": 616,
-          "imgName": "Blue Nude",
-          "imgLink": "https://www.pablopicasso.org/images/amazingcarousel/blue-nude.jpg"
-        },
-        {
-          "id": 617,
-          "imgName": "The Weeping Woman",
-          "imgLink": "https://www.pablopicasso.org/images/amazingcarousel/the-weeping-woman.jpg"
-        },
-        {
-          "id": 618,
-          "imgName": "The Dream",
-          "imgLink": "https://www.pablopicasso.org/images/amazingcarousel/the-dream.jpg"
-        },
-        {
-          "id": 619,
-          "imgName": "La Vie",
-          "imgLink": "https://www.pablopicasso.org/images/amazingcarousel/la-vie.jpg"
-        },
-        {
-          "id": 620,
-          "imgName": "Girl with Mandolin",
-          "imgLink": "https://www.pablopicasso.org/images/amazingcarousel/girl-with-mandolin.jpg"
-        }
-      ],
-      "source": "https://en.wikipedia.org/wiki/Pablo_Picasso"
-    },
-    {
-      "name": "Gustav Klimt",
-      "images": [
-        {
-          "id": 711,
-          "imgName": "The Auditorium of the Old",
-          "imgLink": "https://www.theartstory.org/images20/works/klimt_gustav_1.jpg"
-        },
-        {
-          "id": 712,
-          "imgName": "Pallas Athene",
-          "imgLink": "https://www.theartstory.org/images20/works/klimt_gustav_2.jpg"
-        },
-        {
-          "id": 713,
-          "imgName": "Medicine",
-          "imgLink": "https://www.theartstory.org/images20/works/klimt_gustav_3.jpg"
-        },
-        {
-          "id": 714,
-          "imgName": "The Beethoven Frieze",
-          "imgLink": "https://www.theartstory.org/images20/works/klimt_gustav_4.jpg"
-        },
-        {
-          "id": 715,
-          "imgName": "Adele Bloch-Bauer I",
-          "imgLink": "https://www.theartstory.org/images20/works/klimt_gustav_5.jpg"
-        },
-        {
-          "id": 716,
-          "imgName": "The Kiss",
-          "imgLink": "https://www.theartstory.org/images20/works/klimt_gustav_6.jpg"
-        },
-        {
-          "id": 717,
-          "imgName": "The Park",
-          "imgLink": "https://www.theartstory.org/images20/works/klimt_gustav_7.jpg"
-        },
-        {
-          "id": 718,
-          "imgName": "Woman with fan",
-          "imgLink": "https://media.posterlounge.com/img/products/390000/383842/383842_poster_m.jpg"
-        },
-        {
-          "id": 719,
-          "imgName": "Mother and child",
-          "imgLink": "https://media.posterlounge.com/img/products/540000/534115/534115_poster_m.jpg"
-        },
-        {
-          "id": 720,
-          "imgName": "Courtyard with flowers",
-          "imgLink": "https://media.posterlounge.com/img/products/400000/399501/399501_poster_m.jpg"
-        }
-      ],
-      "source": "https://en.wikipedia.org/wiki/Gustav_Klimt"
-    },
-    {
-      "name": "Eugene Delacroix",
-      "images": [
-        {
-          "id": 811,
-          "imgName": "Arab Horseman Attacked by a Lion",
-          "imgLink": "https://www.artble.com/imgs/c/a/c/935050/arab_horseman_attacked_by_a_lion_300px.jpg"
-        },
-        {
-          "id": 812,
-          "imgName": "Women of Algiers in their apartment",
-          "imgLink": "https://www.artble.com/imgs/7/4/3/234977/women_of_algiers_in_their_apartment_300px.jpg"
-        },
-        {
-          "id": 813,
-          "imgName": "Greece Expiring on the Ruins of Missolonghi",
-          "imgLink": "https://www.artble.com/imgs/a/3/7/835041/greece_expiring_on_the_ruins_of_missolonghi_300px.jpg"
-        },
-        {
-          "id": 814,
-          "imgName": "Massacre of the Innocents",
-          "imgLink": "https://www.artble.com/imgs/7/c/6/928660/massacre_of_the_innocents_300px.jpg"
-        },
-        {
-          "id": 815,
-          "imgName": "Dante and Virgil in Hell",
-          "imgLink": "https://www.artble.com/imgs/3/8/c/334986/dante_and_virgil_in_hell_300px.jpg"
-        },
-        {
-          "id": 816,
-          "imgName": "July 28: Liberty Leading the People",
-          "imgLink": "https://www.artble.com/imgs/b/d/4/134968/july_28_liberty_leading_the_people_300px.jpg"
-        },
-        {
-          "id": 817,
-          "imgName": "Norham Castle Sunrise",
-          "imgLink": "https://www.artble.com/imgs/2/6/a/98100/norham_castle_sunrise_300px.jpg"
-        },
-        {
-          "id": 818,
-          "imgName": "Attila King of the HunsAttila King of the Huns",
-          "imgLink": "https://www.artble.com/imgs/a/6/7/629633/attila_king_of_the_huns_300px.jpg"
-        },
-        {
-          "id": 819,
-          "imgName": "Christ Asleep during the TempestChrist Asleep during the Tempest",
-          "imgLink": "https://www.artble.com/imgs/5/1/9/840331/christ_asleep_during_the_tempest_300px.jpg"
-        },
-        {
-          "id": 820,
-          "imgName": "Jacob Wrestling with the AngelJacob Wrestling with the Angel",
-          "imgLink": "https://www.artble.com/imgs/0/f/8/39226/jacob_wrestling_with_the_angel_300px.jpg"
-        }
-      ],
-      "source": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix"
-    }
-  ]
+  {
+    "artistId": 1,
+    "name": "Leonardo da Vinci",
+    "image": "https://www.leonardodavinci.net/images/leonardo-da-vinci.jpg",
+    "works": [
+      {
+        "id": 111,
+        "workName": "Mona Lisa",
+        "workLink": "https://arthive.net/res/media/img/oy1200/article/4cb/7567061.webp"
+      },
+      {
+        "id": 112,
+        "workName": "The Last Supper",
+        "workLink": "https://arthive.net/res/media/img/oy400/article/0fc/7567064.webp"
+      },
+      {
+        "id": 113,
+        "workName": "Ginevra de' Benci",
+        "workLink": "https://arthive.net/res/media/img/oy800/article/e96/7567065.webp"
+      },
+      {
+        "id": 114,
+        "workName": "Madonna and the Child",
+        "workLink": "https://arthive.net/res/media/img/orig/article/33f/7567066.webp"
+      },
+      {
+        "id": 115,
+        "workName": "Lady with an Ermine",
+        "workLink": "https://arthive.net/res/media/img/oy1200/article/6eb/7567067.webp"
+      },
+      {
+        "id": 116,
+        "workName": "The Virgin of the Rock",
+        "workLink": "https://arthive.net/res/media/img/oy1000/article/561/7567068.webp"
+      },
+      {
+        "id": 117,
+        "workName": "The Madonna of the Carnation",
+        "workLink": "https://arthive.net/res/media/img/oy1000/article/d87/7567069.webp"
+      },
+      {
+        "id": 118,
+        "workName": "Annunciation",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/Annunciation-by-Leonardo-Da-Vinci.jpg"
+      },
+      {
+        "id": 119,
+        "workName": "The Baptism of Christ",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Baptism-of-Christ-by-Leonardo-Da-Vinci.jpg"
+      },
+      {
+        "id": 120,
+        "workName": "The Virgin and Child with St. Anne",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Virgin-and-Child-with-St.-Anne-by-Leonardo-Da-Vinci.jpg"
+      }
+    ],
+    "description": "Leonardo da Vinci was a true genius who graced this world with his presence from April 15, 1452 to May 2, 1519. He is among the most influential artists in history, having left a significant legacy not only in the realm of art but in science as well, each discipline informing his mastery of the other. Da Vinci lived in a golden age of creativity among such contemporaries as Raphael and Michaelangelo, and contributed his unique genius to virtually everything he touched. Like Athens in the age of Pericles, Renaissance Italy is a summit in human history. Today, no name better seems to symbolize Renaissance age than Leonardo da Vinci.",
+    "source": "https://www.leonardodavinci.net/"
+  },
+  {
+    "artistId": 2,
+    "name": "Michelangelo",
+    "image": "https://www.michelangelo.org/images/michelangelo.jpg",
+    "works": [
+      {
+        "id": 211,
+        "workImage": "The Torment of Saint Anthony",
+        "workLink": "https://blog.artsper.com/wp-content/uploads/2022/06/2.jpg"
+      },
+      {
+        "id": 212,
+        "workImage": "Battle of Cascina",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/Battle-of-Cascina-by-Michelangelo.jpg"
+      },
+      {
+        "id": 213,
+        "workImage": "The Creation of Adam",
+        "workLink": "https://blog.artsper.com/wp-content/uploads/2022/06/5.jpg"
+      },
+      {
+        "id": 214,
+        "workImage": "The Last Judgment",
+        "workLink": "https://blog.artsper.com/wp-content/uploads/2022/06/4-1.jpg"
+      },
+      {
+        "id": 215,
+        "workImage": "The Crucifixion of St. Peter",
+        "workLink": "https://blog.artsper.com/wp-content/uploads/2022/06/3.jpg"
+      },
+      {
+        "id": 216,
+        "workImage": "The Entombment ",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Entombment-by-Michelangelo.jpg"
+      },
+      {
+        "id": 217,
+        "workImage": "The Conversion of Saul ",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Conversion-of-Saul-by-Michelangelo.jpg"
+      },
+      {
+        "id": 218,
+        "workImage": "Pieta",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/Pieta-by-Michelangelo.jpg"
+      },
+      {
+        "id": 219,
+        "workImage": "Madonna of the Stairs",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/Madonna-of-the-Stairs-by-Michelangelo.jpg"
+      },
+      {
+        "id": 220,
+        "workImage": "Leda and the Swan",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/Leda-and-the-Swan-by-Michelangelo.jpg"
+      }
+    ],
+    "description": "Michelangelo was without doubt one of the most inspirational and talented artists in modern history. During his life, the western world underwent what was perhaps the most remarkable period of change since the decline of the Roman Empire. The Renaissance saw changes in all aspects of life and culture, with dramatic reforms sweeping through the worlds of religion, politics, and scientific belief. Michelangelo was one of the most fervent advocates of this exciting new philosophy, working with a remarkable energy that was mirrored by contemporary society.",
+    "source": "https://www.michelangelo.org/"
+  },
+  {
+    "artistId": 3,
+    "name": "Rembrandt",
+    "image": "https://uploads1.wikiart.org/images/rembrandt.jpg!Portrait.jpg",
+    "works": [
+      {
+        "id": 311,
+        "workImage": "The Night Watch",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Night-Watch-by-Rembrandt.jpg"
+      },
+      {
+        "id": 312,
+        "workImage": "The Jewish Bride",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Jewish-Bride-by-Rembrandt-1.jpg"
+      },
+      {
+        "id": 313,
+        "workImage": "The Storm on the Sea of Galilee",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Storm-on-the-Sea-of-Galilee-by-Rembrandt.jpg"
+      },
+      {
+        "id": 314,
+        "workImage": "Head of Christ",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/Head-of-Christ-by-Rembrandt.jpg"
+      },
+      {
+        "id": 315,
+        "workImage": "Bathsheba at Her Bath",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/Bathsheba-at-Her-Bath-by-Rembrandt.jpg"
+      },
+      {
+        "id": 316,
+        "workImage": "Danaë",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/Danae-by-Rembrandt.jpg"
+      },
+      {
+        "id": 317,
+        "workImage": "The Conspiracy of Claudius Civilis",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Conspiracy-of-Claudius-Civilis-by-Rembrandt.jpg"
+      },
+      {
+        "id": 318,
+        "workImage": "Belshazzar’s Feast",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/Belshazzars-Feast-by-Rembrandt.jpg"
+      },
+      {
+        "id": 319,
+        "workImage": "The Prodigal Son in the Brothel",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/The-Prodigal-Son-in-the-Brothel-by-Rembrandt.jpg"
+      },
+      {
+        "id": 320,
+        "workImage": "Old Man with a Gold Chain",
+        "workLink": "https://www.theartist.me/wp-content/uploads/2017/08/Old-Man-with-a-Gold-Chain-by-Rembrandt.jpg"
+      }
+    ],
+    "description": "Rembrandt Harmenszoon van Rijn was a Dutch draughtsman, painter, and printmaker. An innovative and prolific master in three media, he is generally considered one of the greatest visual artists in the history of art and the most important in Dutch art history. Rembrandt's works depict a wide range of style and subject matter, from portraits and self-portraits to landscapes, genre scenes, allegorical and historical scenes, biblical and mythological themes as well as animal studies. His contributions to art came in a period of great wealth and cultural achievement that historians call the Dutch Golden Age, when Dutch art was extremely prolific and innovative, and gave rise to important new genres. ",
+    "source": "https://www.wikiart.org/en/rembrandt"
+  },
+  {
+    "artistId": 4,
+    "name": "Vincent van Gogh",
+    "image": "https://www.vincentvangogh.org/images/self-portrait.jpg",
+    "works": [
+      {
+        "id": 411,
+        "workImage": "Starry Night",
+        "workLink": "https://uploads3.wikiart.org/00142/images/vincent-van-gogh/the-starry-night.jpg!PinterestSmall.jpg"
+      },
+      {
+        "id": 412,
+        "workImage": "The Potatao Eaters",
+        "workLink": "https://uploads2.wikiart.org/images/vincent-van-gogh/the-potato-eaters-1885-1.jpg!PinterestSmall.jpg"
+      },
+      {
+        "id": 413,
+        "workImage": "Paul Gauguin's Armchair",
+        "workLink": "https://uploads6.wikiart.org/images/vincent-van-gogh/paul-gauguin-s-armchair-1888.jpg!PinterestSmall.jpg"
+      },
+      {
+        "id": 414,
+        "workImage": "Red Vineyards at Arles",
+        "workLink": "https://uploads5.wikiart.org/images/vincent-van-gogh/red-vineyards-at-arles-1888.jpg!PinterestSmall.jpg"
+      },
+      {
+        "id": 415,
+        "workImage": "Sower with Setting Sun",
+        "workLink": "https://uploads7.wikiart.org/images/vincent-van-gogh/sower-with-setting-sun-1888-3.jpg!PinterestSmall.jpg"
+      },
+      {
+        "id": 416,
+        "workImage": "Still Life - Vase with Fifteen Sunflowers",
+        "workLink": "https://uploads6.wikiart.org/images/vincent-van-gogh/still-life-vase-with-fifteen-sunflowers-1888-1.jpg!PinterestSmall.jpg"
+      },
+      {
+        "id": 417,
+        "workImage": "Irises",
+        "workLink": "https://uploads8.wikiart.org/00213/images/vincent-van-gogh/antique-3840759.jpg!PinterestSmall.jpg"
+      },
+      {
+        "id": 418,
+        "workImage": "Landscape with House and Ploughman",
+        "workLink": "https://uploads2.wikiart.org/images/vincent-van-gogh/landscape-with-house-and-ploughman-1889(2).jpg!PinterestSmall.jpg"
+      },
+      {
+        "id": 419,
+        "workImage": "Wheatfield with Crows",
+        "workLink": "https://uploads4.wikiart.org/images/vincent-van-gogh/wheatfield-with-crows-1890.jpg!PinterestSmall.jpg"
+      },
+      {
+        "id": 420,
+        "workImage": "A woman walking in garden",
+        "workLink": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-woman-walking-in-garden-1887(1).jpg!PinterestSmall.jpg"
+      }
+    ],
+    "description": "Vincent van Gogh (1853-1890), perhaps the most famous artist in the world, is perceived by many as the 'mad' artist, the man who painted in a frenzy or simply the tormented soul who cuts off his ear. His artistic genius is often overshadowed by those who see his paintings as mere visual manifestations of his troubled mind. Whilst in part this may be true, in reality his innovative and unique artistic style was of enormous importance to a host of artists who followed in his wake. Even when openly influenced by his predecessors or contemporaries his art remained identifiably his own, developing a distinctive style that failed to be accepted by the art-buying public in his own time. The career of Vincent van Gogh as a painter was short, but his paintings revolutionized artistic practice and styles.",
+    "source": "https://www.vincentvangogh.org/"
+  },
+  {
+    "artistId": 5,
+    "name": "Johannes Vermeer",
+    "image": "https://uploads8.wikiart.org/images/johannes-vermeer.jpg!Portrait.jpg",
+    "works": [
+      {
+        "id": 511,
+        "workImage": "Diana and her Companions",
+        "workLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/diana.jpg"
+      },
+      {
+        "id": 512,
+        "workImage": "Christ in the House of Martha and Mary",
+        "workLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/christ.jpg"
+      },
+      {
+        "id": 513,
+        "workImage": "The Procuress",
+        "workLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/procuress.jpg"
+      },
+      {
+        "id": 514,
+        "workImage": "Girl with a Pearl Earring",
+        "workLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/earring.jpg"
+      },
+      {
+        "id": 515,
+        "workImage": "A Maid Asleep",
+        "workLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/asleep.jpg"
+      },
+      {
+        "id": 516,
+        "workImage": "Girl Reading a Letter at an Open Window",
+        "workLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/open.jpg"
+      },
+      {
+        "id": 517,
+        "workImage": "The Milkmaid",
+        "workLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/milkmaid.jpg"
+      },
+      {
+        "id": 518,
+        "workImage": "The Glass of Wine",
+        "workLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/glass-berlin.jpg"
+      },
+      {
+        "id": 519,
+        "workImage": "The Little Street",
+        "workLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/street.jpg"
+      },
+      {
+        "id": 520,
+        "workImage": "The Art of Painting",
+        "workLink": "http://www.essentialvermeer.com/directoryimages/vermeer-paintings-and-thumbnails/art.jpg"
+      }
+    ],
+    "description": "Johannes Vermeer, Dutch artist who created paintings that are among the most beloved and revered images in the history of art. Although only about 36 of his paintings survive, these rare works are among the greatest treasures in the world’s finest museums. Vermeer began his career in the early 1650s by painting large-scale biblical and mythological scenes, but most of his later paintings—the ones for which he is most famous—depict scenes of daily life in interior settings. These works are remarkable for their purity of light and form, qualities that convey a serene, timeless sense of dignity. Vermeer also painted cityscapes and allegorical scenes.",
+    "source": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
+  },
+  {
+    "artistId": 6,
+    "name": "Pablo Picasso",
+    "image": "https://www.pablopicasso.org/images/pablo-picasso-photo.jpg",
+    "works": [
+      {
+        "id": 611,
+        "workImage": "Guernica",
+        "workLink": "https://www.pablopicasso.org/images/amazingcarousel/guernica.jpg"
+      },
+      {
+        "id": 612,
+        "workImage": "Les Demoiselles d'Avignon",
+        "workLink": "https://www.pablopicasso.org/images/amazingcarousel/avignon.jpg"
+      },
+      {
+        "id": 613,
+        "workImage": "The Old Guitarist",
+        "workLink": "https://www.pablopicasso.org/images/amazingcarousel/the-old-guitarist.jpg"
+      },
+      {
+        "id": 614,
+        "workImage": "Girl Before a Mirror",
+        "workLink": "https://www.pablopicasso.org/images/amazingcarousel/girl-before-a-mirror.jpg"
+      },
+      {
+        "id": 615,
+        "workImage": "Three Musicians",
+        "workLink": "https://www.pablopicasso.org/images/amazingcarousel/three-musicians.jpg"
+      },
+      {
+        "id": 616,
+        "workImage": "Blue Nude",
+        "workLink": "https://www.pablopicasso.org/images/amazingcarousel/blue-nude.jpg"
+      },
+      {
+        "id": 617,
+        "workImage": "The Weeping Woman",
+        "workLink": "https://www.pablopicasso.org/images/amazingcarousel/the-weeping-woman.jpg"
+      },
+      {
+        "id": 618,
+        "workImage": "The Dream",
+        "workLink": "https://www.pablopicasso.org/images/amazingcarousel/the-dream.jpg"
+      },
+      {
+        "id": 619,
+        "workImage": "La Vie",
+        "workLink": "https://www.pablopicasso.org/images/amazingcarousel/la-vie.jpg"
+      },
+      {
+        "id": 620,
+        "workImage": "Girl with Mandolin",
+        "workLink": "https://www.pablopicasso.org/images/amazingcarousel/girl-with-mandolin.jpg"
+      }
+    ],
+    "description": "Pablo Picasso is probably the most important figure of the 20th century, in terms of art, and art movements that occurred over this period. Before the age of 50, the Spanish born artist had become the most well-known name in modern art, with the most distinct style and eye for artistic creation. There had been no other artists, prior to Picasso, who had such an impact on the art world, or had a mass following of fans and critics alike, as he did. Throughout the long course of his career, he created more than 20,000 paintings, drawings, sculptures, ceramics and other items such as costumes and theater sets.",
+    "source": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+  },
+  {
+    "artistId": 7,
+    "name": "Gustav Klimt",
+    "image": "https://www.gustav-klimt.com/images/gustav-klimt.jpg",
+    "works": [
+      {
+        "id": 711,
+        "workImage": "The Auditorium of the Old",
+        "workLink": "https://www.theartstory.org/images20/works/klimt_gustav_1.jpg"
+      },
+      {
+        "id": 712,
+        "workImage": "Pallas Athene",
+        "workLink": "https://www.theartstory.org/images20/works/klimt_gustav_2.jpg"
+      },
+      {
+        "id": 713,
+        "workImage": "Medicine",
+        "workLink": "https://www.theartstory.org/images20/works/klimt_gustav_3.jpg"
+      },
+      {
+        "id": 714,
+        "workImage": "The Beethoven Frieze",
+        "workLink": "https://www.theartstory.org/images20/works/klimt_gustav_4.jpg"
+      },
+      {
+        "id": 715,
+        "workImage": "Adele Bloch-Bauer I",
+        "workLink": "https://www.theartstory.org/images20/works/klimt_gustav_5.jpg"
+      },
+      {
+        "id": 716,
+        "workImage": "The Kiss",
+        "workLink": "https://www.theartstory.org/images20/works/klimt_gustav_6.jpg"
+      },
+      {
+        "id": 717,
+        "workImage": "The Park",
+        "workLink": "https://www.theartstory.org/images20/works/klimt_gustav_7.jpg"
+      },
+      {
+        "id": 718,
+        "workImage": "Woman with fan",
+        "workLink": "https://media.posterlounge.com/img/products/390000/383842/383842_poster_m.jpg"
+      },
+      {
+        "id": 719,
+        "workImage": "Mother and child",
+        "workLink": "https://media.posterlounge.com/img/products/540000/534115/534115_poster_m.jpg"
+      },
+      {
+        "id": 720,
+        "workImage": "Courtyard with flowers",
+        "workLink": "https://media.posterlounge.com/img/products/400000/399501/399501_poster_m.jpg"
+      }
+    ],
+    "description": "Gustav Klimt was an Austrian Symbolist painter and one of the most prominent members of the Vienna Art Nouveau movement. His major works include paintings, murals, sketches, and other art objects, many of which are on display in the Vienna Secession gallery. Klimt's primary subject was the female body, and his works are marked by a frank eroticism--nowhere is this more apparent than in his numerous drawings in pencil",
+    "source": "https://en.wikipedia.org/wiki/Gustav_Klimt"
+  },
+  {
+    "artistId": 8,
+    "name": "Eugene Delacroix",
+    "image": "https://www.artble.com/imgs/7/4/3/15048/eugene_delacroix_300px.jpg",
+    "works": [
+      {
+        "id": 811,
+        "workImage": "Arab Horseman Attacked by a Lion",
+        "workLink": "https://www.artble.com/imgs/c/a/c/935050/arab_horseman_attacked_by_a_lion_300px.jpg"
+      },
+      {
+        "id": 812,
+        "workImage": "Women of Algiers in their apartment",
+        "workLink": "https://www.artble.com/imgs/7/4/3/234977/women_of_algiers_in_their_apartment_300px.jpg"
+      },
+      {
+        "id": 813,
+        "workImage": "Greece Expiring on the Ruins of Missolonghi",
+        "workLink": "https://www.artble.com/imgs/a/3/7/835041/greece_expiring_on_the_ruins_of_missolonghi_300px.jpg"
+      },
+      {
+        "id": 814,
+        "workImage": "Massacre of the Innocents",
+        "workLink": "https://www.artble.com/imgs/7/c/6/928660/massacre_of_the_innocents_300px.jpg"
+      },
+      {
+        "id": 815,
+        "workImage": "Dante and Virgil in Hell",
+        "workLink": "https://www.artble.com/imgs/3/8/c/334986/dante_and_virgil_in_hell_300px.jpg"
+      },
+      {
+        "id": 816,
+        "workImage": "July 28: Liberty Leading the People",
+        "workLink": "https://www.artble.com/imgs/b/d/4/134968/july_28_liberty_leading_the_people_300px.jpg"
+      },
+      {
+        "id": 817,
+        "workImage": "Norham Castle Sunrise",
+        "workLink": "https://www.artble.com/imgs/2/6/a/98100/norham_castle_sunrise_300px.jpg"
+      },
+      {
+        "id": 818,
+        "workImage": "Attila King of the HunsAttila King of the Huns",
+        "workLink": "https://www.artble.com/imgs/a/6/7/629633/attila_king_of_the_huns_300px.jpg"
+      },
+      {
+        "id": 819,
+        "workImage": "Christ Asleep during the TempestChrist Asleep during the Tempest",
+        "workLink": "https://www.artble.com/imgs/5/1/9/840331/christ_asleep_during_the_tempest_300px.jpg"
+      },
+      {
+        "id": 820,
+        "workImage": "Jacob Wrestling with the AngelJacob Wrestling with the Angel",
+        "workLink": "https://www.artble.com/imgs/0/f/8/39226/jacob_wrestling_with_the_angel_300px.jpg"
+      }
+    ],
+    "description": "Ferdinand Victor Eugène Delacroix was the most important of the French Romantic painters. Delacroix's use of expressive brushstrokes and his study of the optical effects of colour profoundly shaped the work of the Impressionists, while his passion for the exotic inspired the artists of the Symbolist movement. A fine lithographer, Delacroix illustrated various works of William Shakespeare, the Scottish writer Sir Walter Scott, and the German writer Johann Wolfgang von Goethe. ",
+    "source": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix"
+  }
+]

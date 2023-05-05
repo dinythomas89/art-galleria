@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const FavouritesContainer = styled.div`
+export const FavouritesContainer = styled.main`
   margin: 20px;
 `;
 

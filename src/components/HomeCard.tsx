@@ -1,17 +1,18 @@
 import { ArtistImage, HomeCardComponent } from "../styles/homeCard";
 
 interface HomeCardProps {
-  images: {
-    imgName: string;
-    imgLink: string;
+  works: {
+    id: number;
+    workImage: string;
+    workLink: string;
   }[];
 }
 
-const HomeCard = ({ images }: HomeCardProps) => {
+const HomeCard = ({ works }: HomeCardProps) => {
   return (
     <HomeCardComponent>
-      {images.map(({ imgName, imgLink }) => (
-        <ArtistImage key={imgName} src={imgLink} alt={imgName} loading="lazy" />
+      {works.map(({ id, workImage, workLink }) => (
+        <ArtistImage key={id} src={workLink} alt={workImage} loading="lazy" />
       ))}
     </HomeCardComponent>
   );

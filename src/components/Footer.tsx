@@ -1,10 +1,19 @@
-import { FooterWrapper, Text } from "../styles/footer";
+import { FooterWrapper, Text, Link } from "../styles/footer";
 
 const Footer = () => {
   return (
     <FooterWrapper>
       <Text>@Diny</Text>
-      <Text>Reference: Wikipedia</Text>
+      <Text>
+        Reference:{" "}
+        <Link
+          href="https://www.artst.org/famous-artists/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Artst
+        </Link>
+      </Text>
     </FooterWrapper>
   );
 };

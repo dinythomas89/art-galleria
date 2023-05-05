@@ -37,10 +37,10 @@ const Home = () => {
       ) : (
         <ImageWrapper>
           {artistsData.map((artist) => (
-            <StyledLink to={`/${artist.name}`} key={artist.name}>
+            <StyledLink to={`/${artist.name}`} key={artist.artistId}>
               <Artist>
-                <HomeCard images={artist.images.slice(0, 2)} />
-                <HomeCard images={artist.images.slice(2, 4)} />
+                <HomeCard works={artist.works.slice(0, 2)} />
+                <HomeCard works={artist.works.slice(2, 4)} />
                 <ArtistTitle className="artist-name">{artist.name}</ArtistTitle>
                 <ArtistText>Click to see all</ArtistText>
               </Artist>

@@ -1,11 +1,14 @@
-export interface ImageData {
+export interface WorksData {
   id: number;
-  imgName: string;
-  imgLink: string;
+  workImage: string;
+  workLink: string;
 }
 
 export interface ArtistsData {
+  artistId: number;
   name: string;
-  images: ImageData[];
+  image: string;
+  works: WorksData[];
+  description: string;
   source: string;
 }

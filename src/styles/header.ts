@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 
-export const HeaderContainer = styled.div`
+export const HeaderContainer = styled.header`
   height: 18vh;
   display: flex;
   justify-content: space-between;
@@ -30,4 +30,8 @@ export const StyledLink = styled(Link)`
   color: #f4d06f;
   padding: 2em;
   font-size: 1.5em;
+
+  &:hover {
+    color: white;
+  }
 `;

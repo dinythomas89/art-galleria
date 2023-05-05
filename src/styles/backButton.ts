@@ -6,4 +6,8 @@ export const BackButtonComponent = styled.div`
   font-size: 26px;
   color: #6b6b6c;
   cursor: pointer;
+
+  &:hover {
+    color: black;
+  }
 `;

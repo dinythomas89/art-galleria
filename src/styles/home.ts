@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 
-export const HomeContainer = styled.div`
+export const HomeContainer = styled.main`
   margin: 20px;
 `;
 

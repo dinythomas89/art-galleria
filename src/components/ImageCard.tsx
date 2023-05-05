@@ -8,8 +8,8 @@ import {
 
 interface Image {
   id: number;
-  imgName: string;
-  imgLink: string;
+  workImage: string;
+  workLink: string;
 }
 interface ImageProps {
   image: Image;
@@ -24,8 +24,8 @@ const ImageCard = ({ image }: ImageProps) => {
 
   return (
     <ImageCardContainer>
-      <CardImage src={image.imgLink} alt={image.imgName} />
-      <CardText>{image.imgName}</CardText>
+      <CardImage src={image.workLink} alt={image.workImage} loading="lazy" />
+      <CardText>{image.workImage}</CardText>
       <LikeButton
         onClick={() => {
           toggleLike(image.id);

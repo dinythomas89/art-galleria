@@ -24,7 +24,7 @@ const Favourites = () => {
 
   let likedImages: any[] = [];
   artistsData.map((data) => {
-    const images = data.images.filter((image) =>
+    const images = data.works.filter((image) =>
       likedCardIds.includes(image.id)
     );
     if (images.length > 0) likedImages.push(...images);
