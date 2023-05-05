@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.ba2de7cb.js",
-    "static/js/894.a4325d4a.chunk.js": "/static/js/894.a4325d4a.chunk.js",
-    "static/js/24.4bc86375.chunk.js": "/static/js/24.4bc86375.chunk.js",
-    "static/js/649.312871ae.chunk.js": "/static/js/649.312871ae.chunk.js",
-    "index.html": "/index.html",
-    "main.ba2de7cb.js.map": "/static/js/main.ba2de7cb.js.map",
-    "894.a4325d4a.chunk.js.map": "/static/js/894.a4325d4a.chunk.js.map",
-    "24.4bc86375.chunk.js.map": "/static/js/24.4bc86375.chunk.js.map",
-    "649.312871ae.chunk.js.map": "/static/js/649.312871ae.chunk.js.map"
+    "main.js": "/art-galleria/static/js/main.ab4b866a.js",
+    "static/js/894.a4325d4a.chunk.js": "/art-galleria/static/js/894.a4325d4a.chunk.js",
+    "static/js/24.4bc86375.chunk.js": "/art-galleria/static/js/24.4bc86375.chunk.js",
+    "static/js/649.312871ae.chunk.js": "/art-galleria/static/js/649.312871ae.chunk.js",
+    "index.html": "/art-galleria/index.html",
+    "main.ab4b866a.js.map": "/art-galleria/static/js/main.ab4b866a.js.map",
+    "894.a4325d4a.chunk.js.map": "/art-galleria/static/js/894.a4325d4a.chunk.js.map",
+    "24.4bc86375.chunk.js.map": "/art-galleria/static/js/24.4bc86375.chunk.js.map",
+    "649.312871ae.chunk.js.map": "/art-galleria/static/js/649.312871ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ba2de7cb.js"
+    "static/js/main.ab4b866a.js"
   ]
 }
