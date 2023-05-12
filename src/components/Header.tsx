@@ -3,10 +3,10 @@ import { HeaderContainer, Logo, NavBar, StyledLink } from "../styles/header";
 const Header = () => {
   return (
     <HeaderContainer>
-      <Logo src="/logo.png" />
+      <Logo src="./logo.png" />
       <NavBar>
-        <StyledLink to="/">Home</StyledLink>
-        <StyledLink to="/favourites">Favourites</StyledLink>
+        <StyledLink to="/art-galleria/">Home</StyledLink>
+        <StyledLink to="/art-galleria/favourites">Favourites</StyledLink>
       </NavBar>
     </HeaderContainer>
   );

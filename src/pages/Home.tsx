@@ -37,7 +37,10 @@ const Home = () => {
       ) : (
         <ImageWrapper>
           {artistsData.map((artist) => (
-            <StyledLink to={`/${artist.name}`} key={artist.artistId}>
+            <StyledLink
+              to={`/art-galleria/${artist.name}`}
+              key={artist.artistId}
+            >
               <Artist>
                 <HomeCard works={artist.works.slice(0, 2)} />
                 <HomeCard works={artist.works.slice(2, 4)} />
