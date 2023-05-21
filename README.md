@@ -1,5 +1,8 @@
 # Art-Galleria
 
+### Purpose
+To be more confident with TS and State management
+
 ### Description
 
 This is a front-end project made with React. It displays information about famous painters and their paintings. Users can like the paintings and view all their favorite works.
